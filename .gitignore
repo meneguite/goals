@@ -8,4 +8,6 @@
 Homestead.json
 Homestead.yaml
 .env
-storage/db
+/storage/db
+/_ide_helper.php
+/.phpstorm.meta.php
